@@ -1,0 +1,15 @@
+D:\Обучение\Sem001\demonstration\bin\Debug\net6.0\demonstration.exe
+D:\Обучение\Sem001\demonstration\bin\Debug\net6.0\demonstration.deps.json
+D:\Обучение\Sem001\demonstration\bin\Debug\net6.0\demonstration.runtimeconfig.json
+D:\Обучение\Sem001\demonstration\bin\Debug\net6.0\demonstration.dll
+D:\Обучение\Sem001\demonstration\bin\Debug\net6.0\demonstration.pdb
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.csproj.AssemblyReference.cache
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.AssemblyInfoInputs.cache
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.AssemblyInfo.cs
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.csproj.CoreCompileInputs.cache
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.dll
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\refint\demonstration.dll
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.pdb
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\demonstration.genruntimeconfig.cache
+D:\Обучение\Sem001\demonstration\obj\Debug\net6.0\ref\demonstration.dll
