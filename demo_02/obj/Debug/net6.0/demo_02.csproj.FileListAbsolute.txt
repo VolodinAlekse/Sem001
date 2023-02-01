@@ -1,0 +1,15 @@
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.csproj.AssemblyReference.cache
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.AssemblyInfoInputs.cache
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.AssemblyInfo.cs
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.csproj.CoreCompileInputs.cache
+D:\Обучение\Sem001\demo_02\bin\Debug\net6.0\demo_02.exe
+D:\Обучение\Sem001\demo_02\bin\Debug\net6.0\demo_02.deps.json
+D:\Обучение\Sem001\demo_02\bin\Debug\net6.0\demo_02.runtimeconfig.json
+D:\Обучение\Sem001\demo_02\bin\Debug\net6.0\demo_02.dll
+D:\Обучение\Sem001\demo_02\bin\Debug\net6.0\demo_02.pdb
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.dll
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\refint\demo_02.dll
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.pdb
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\demo_02.genruntimeconfig.cache
+D:\Обучение\Sem001\demo_02\obj\Debug\net6.0\ref\demo_02.dll
