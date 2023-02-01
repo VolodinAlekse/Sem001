@@ -23,15 +23,80 @@
 // 3 -> Среда 
 // 5 -> Пятница
 
-System.Console.WriteLine( "Введите число a");
-int numberA=Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine( "Введите число b");
-int numberB=Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine( "Введите число a");
+// int numberA=Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine( "Введите число b");
+// int numberB=Convert.ToInt32(Console.ReadLine());
 
-if (numberB*numberB==numberA)
-{
-    System.Console.WriteLine("да");
-}
-else {
-    System.Console.WriteLine("нет");
-}
+// if (numberB*numberB==numberA)
+// {
+//     System.Console.WriteLine("да");
+// }
+// else {
+//     System.Console.WriteLine("нет");
+// }
+
+// System.Console.Write("Введите число дня недели: ");
+// int day = Convert.ToInt32(Console.ReadLine());
+
+// switch (day)
+// {
+//     case 1:
+//         System.Console.Write("Понедельник");
+//         break;
+//     case 2:
+//         System.Console.Write("Вторник");
+//         break;
+//     case 3:
+//         System.Console.Write("Среда");
+//         break;
+//     case 4:
+//         System.Console.Write("Четверг");
+//         break;
+//     case 5:
+//         System.Console.Write("Пятница");
+//         break;
+//     case 6:
+//         System.Console.Write("Суббота");
+//         break;
+//     case 7:
+//         System.Console.Write("Воскресенье");
+//         break;
+//     default:
+//         System.Console.Write("Такого дня недели не существует");
+//         break;
+// }
+
+
+// if(day==1)
+// {
+//   System.Console.Write("Понедельник");  
+// }
+// else if(day==2)
+// {
+//   System.Console.Write("Вторник");  
+// }
+// else if(day==3)
+// {
+//   System.Console.Write("Среда");  
+// }
+// else if(day==4)
+// {
+//   System.Console.Write("Четверг");  
+// }
+// else if(day==5)
+// {
+//   System.Console.Write("Пятница");  
+// }
+// else if(day==6)
+// {
+//   System.Console.Write("Суббота");  
+// }
+//  else if(day==7)
+// {
+//   System.Console.Write("Воскресенье");  
+// }
+//  else
+// {
+//   System.Console.Write("Такого дня недели не существует");  
+// }
